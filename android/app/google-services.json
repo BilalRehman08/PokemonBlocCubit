@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822110719007",
+    "project_id": "blocpokemonapp",
+    "storage_bucket": "blocpokemonapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822110719007:android:11d2682d8f5e433adad92a",
+        "android_client_info": {
+          "package_name": "com.example.pokemonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822110719007-rj9sv5jhnluuu40ae671ebhtn15bs6rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97CczqzyEsImB4W1I42DTIOHxtMmX68o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822110719007-rj9sv5jhnluuu40ae671ebhtn15bs6rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
